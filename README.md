@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan Diemer, aka @PatrickChewing8
 - 👀 I’m interested in ... javascript, python, data anaytics, buyer behavior analysis, music, movies, and Cleveland sports.
-- 🌱 I’m currently learning ... javascript and will venture towards python. I'm currently enrolled in Scrimba's Front End Developer Career Path.
+- 🌱 I’m currently learning ... Computer programming and development at Owens Community College.
 - 📫 How to reach me ... 
   -   logandiemer@gmail.com 
   -   https://www.linkedin.com/in/logandiemer/
