@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Logan Diemer, aka @PatrickChewing8
+- 👋 Hi, I’m Logan Diemer
 - 👀 I’m interested in ... javascript, python, data anaytics, buyer behavior analysis, music, movies, and Cleveland sports.
 - 🌱 I’m currently learning ... Computer programming and development at Owens Community College.
 - 📫 How to reach me ... 
